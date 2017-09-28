@@ -5,7 +5,7 @@ title: Team
 The development team for Absinthe and its related projects:
 
 - [Bruce Williams](https://github.com/bruce), `wbruce` on IRC and [Twitter](http://twitter.com/wbruce)
-- [Ben Wilson](https://github.com/bruce), `benwilson512` on IRC and [Twitter](http://twitter.com/benwilson512)
+- [Ben Wilson](https://github.com/benwilson512), `benwilson512` on IRC and [Twitter](http://twitter.com/benwilson512)
 
 To our contributors -- thank you for [helping us](/community) make Absinthe
 better!
